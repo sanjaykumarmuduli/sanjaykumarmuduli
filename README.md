@@ -1,4 +1,7 @@
-![Header](./your-header-image-name.png)
+![github-header-image](https://github.com/sanjaykumarmuduli/sanjaykumarmuduli/assets/129375333/91f075c3-cd47-4999-b165-abc8665c50af)
+
+
+
 <h1 align="center">Hi 👋, I'm Sanjay Kumar Muduli</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
